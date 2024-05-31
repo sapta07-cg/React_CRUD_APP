@@ -22,8 +22,9 @@ const Employee = () => {
 
   return (
     <div>
-        <h1>Employee details</h1>
-        <button onClick={handleClick}>List of Employee</button>
+        <h1>CG Employee details</h1>
+        <button type="button" className="btn btn-success"onClick={handleClick}>List of Employee</button>
+
         <div>
           <h2>Employee List</h2>
           <ul>
