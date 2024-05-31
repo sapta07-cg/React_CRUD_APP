@@ -16,6 +16,10 @@ const Employee = () => {
       return <h1>Loading........</h1>
     }
 
+    if(empData.todo.isError){
+      return <h1>Something went wrong....</h1>
+    }
+
   return (
     <div>
         <h1>Employee details</h1>
