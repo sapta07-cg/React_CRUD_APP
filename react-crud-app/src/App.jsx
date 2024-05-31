@@ -1,14 +1,13 @@
 
 import './App.css'
+import Employee from './component/Employee'
 
 function App() {
 
 
   return (
     <>
-      <div>
-        <h1>Hello coders world</h1>
-      </div>
+      <Employee/>
     </>
   )
 }
