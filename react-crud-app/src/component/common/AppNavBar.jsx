@@ -44,11 +44,11 @@ const AppNavBar = () => {
             <li className="nav-item">
               <NavLink
                 exact
-                to="/admin"
+                to="/createEmp"
                 className="nav-links"
                 activeClassName="active"
               >
-                ADMIN
+                CREATE
               </NavLink>
             </li>
           </ul>
