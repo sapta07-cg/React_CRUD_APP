@@ -1,0 +1,746 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Maddie",
+      "email": "mhedlestone0@storify.com",
+      "gender": "Male",
+      "job role": "Project Manager"
+    },
+    {
+      "id": "2",
+      "name": "Norene",
+      "email": "ninde1@google.pl",
+      "gender": "Genderqueer",
+      "job role": "Graphic Designer"
+    },
+    {
+      "id": "3",
+      "name": "Darryl",
+      "email": "dbottomley2@nasa.gov",
+      "gender": "Male",
+      "job role": "Marketing Assistant"
+    },
+    {
+      "id": "4",
+      "name": "Roze",
+      "email": "rmarklund3@clickbank.net",
+      "gender": "Female",
+      "job role": "Budget/Accounting Analyst I"
+    },
+    {
+      "id": "5",
+      "name": "Luelle",
+      "email": "lyarnall4@ebay.co.uk",
+      "gender": "Female",
+      "job role": "Engineer IV"
+    },
+    {
+      "id": "6",
+      "name": "Theodosia",
+      "email": "tjenken5@dailymotion.com",
+      "gender": "Female",
+      "job role": "Actuary"
+    },
+    {
+      "id": "7",
+      "name": "Sissie",
+      "email": "spoint6@house.gov",
+      "gender": "Female",
+      "job role": "Administrative Assistant III"
+    },
+    {
+      "id": "8",
+      "name": "Garald",
+      "email": "gpinilla7@vinaora.com",
+      "gender": "Male",
+      "job role": "Financial Analyst"
+    },
+    {
+      "id": "9",
+      "name": "Kassia",
+      "email": "kmoors8@etsy.com",
+      "gender": "Female",
+      "job role": "Quality Engineer"
+    },
+    {
+      "id": "10",
+      "name": "Jackqueline",
+      "email": "jdedenham9@columbia.edu",
+      "gender": "Agender",
+      "job role": "Environmental Specialist"
+    },
+    {
+      "id": "11",
+      "name": "Cesare",
+      "email": "cedwinsona@psu.edu",
+      "gender": "Male",
+      "job role": "Senior Sales Associate"
+    },
+    {
+      "id": "12",
+      "name": "Elnore",
+      "email": "ebeidebekeb@google.fr",
+      "gender": "Female",
+      "job role": "Research Assistant IV"
+    },
+    {
+      "id": "13",
+      "name": "Jenni",
+      "email": "jgiamellic@oaic.gov.au",
+      "gender": "Female",
+      "job role": "Civil Engineer"
+    },
+    {
+      "id": "14",
+      "name": "Armando",
+      "email": "ahengoedd@typepad.com",
+      "gender": "Male",
+      "job role": "Marketing Manager"
+    },
+    {
+      "id": "15",
+      "name": "Edita",
+      "email": "ebyarde@behance.net",
+      "gender": "Polygender",
+      "job role": "Professor"
+    },
+    {
+      "id": "16",
+      "name": "Alane",
+      "email": "alafranconif@moonfruit.com",
+      "gender": "Female",
+      "job role": "Librarian"
+    },
+    {
+      "id": "17",
+      "name": "Dwight",
+      "email": "ddrewettg@ucsd.edu",
+      "gender": "Male",
+      "job role": "Senior Editor"
+    },
+    {
+      "id": "18",
+      "name": "Lorettalorna",
+      "email": "lmaleckyh@zdnet.com",
+      "gender": "Female",
+      "job role": "General Manager"
+    },
+    {
+      "id": "19",
+      "name": "Debor",
+      "email": "dmeasomi@w3.org",
+      "gender": "Female",
+      "job role": "Associate Professor"
+    },
+    {
+      "id": "20",
+      "name": "Aeriel",
+      "email": "apaddickj@irs.gov",
+      "gender": "Genderfluid",
+      "job role": "Operator"
+    },
+    {
+      "id": "21",
+      "name": "Renell",
+      "email": "rleatherlandk@yellowpages.com",
+      "gender": "Female",
+      "job role": "Geological Engineer"
+    },
+    {
+      "id": "22",
+      "name": "Arluene",
+      "email": "avanderweedenburgl@de.vu",
+      "gender": "Female",
+      "job role": "Research Associate"
+    },
+    {
+      "id": "23",
+      "name": "Penelope",
+      "email": "pgingelm@linkedin.com",
+      "gender": "Female",
+      "job role": "Administrative Officer"
+    },
+    {
+      "id": "24",
+      "name": "Robinett",
+      "email": "rranshawn@phoca.cz",
+      "gender": "Female",
+      "job role": "Accounting Assistant IV"
+    },
+    {
+      "id": "25",
+      "name": "Mattie",
+      "email": "mveldeo@mac.com",
+      "gender": "Female",
+      "job role": "Account Coordinator"
+    },
+    {
+      "id": "26",
+      "name": "Marco",
+      "email": "mpadefieldp@earthlink.net",
+      "gender": "Male",
+      "job role": "Librarian"
+    },
+    {
+      "id": "27",
+      "name": "Iain",
+      "email": "ilucq@sourceforge.net",
+      "gender": "Male",
+      "job role": "Safety Technician I"
+    },
+    {
+      "id": "28",
+      "name": "Nike",
+      "email": "nvoelkerr@desdev.cn",
+      "gender": "Female",
+      "job role": "Account Coordinator"
+    },
+    {
+      "id": "29",
+      "name": "Augustine",
+      "email": "acuppitts@woothemes.com",
+      "gender": "Male",
+      "job role": "Data Coordinator"
+    },
+    {
+      "id": "30",
+      "name": "Greta",
+      "email": "gwetherst@utexas.edu",
+      "gender": "Female",
+      "job role": "Account Coordinator"
+    },
+    {
+      "id": "31",
+      "name": "Judy",
+      "email": "jbetjeu@webeden.co.uk",
+      "gender": "Female",
+      "job role": "Staff Scientist"
+    },
+    {
+      "id": "32",
+      "name": "Coralyn",
+      "email": "cgoddingv@i2i.jp",
+      "gender": "Female",
+      "job role": "VP Sales"
+    },
+    {
+      "id": "33",
+      "name": "Sheri",
+      "email": "sjillisw@feedburner.com",
+      "gender": "Female",
+      "job role": "Pharmacist"
+    },
+    {
+      "id": "34",
+      "name": "Darlleen",
+      "email": "dsellsx@bluehost.com",
+      "gender": "Female",
+      "job role": "Structural Engineer"
+    },
+    {
+      "id": "35",
+      "name": "Thekla",
+      "email": "theibly@irs.gov",
+      "gender": "Female",
+      "job role": "General Manager"
+    },
+    {
+      "id": "36",
+      "name": "Hube",
+      "email": "hdcostaz@craigslist.org",
+      "gender": "Male",
+      "job role": "Safety Technician IV"
+    },
+    {
+      "id": "37",
+      "name": "Tomasina",
+      "email": "tnaisey10@google.pl",
+      "gender": "Female",
+      "job role": "Health Coach IV"
+    },
+    {
+      "id": "38",
+      "name": "Alis",
+      "email": "acrean11@discuz.net",
+      "gender": "Bigender",
+      "job role": "Community Outreach Specialist"
+    },
+    {
+      "id": "39",
+      "name": "Bernadina",
+      "email": "bmishaw12@uol.com.br",
+      "gender": "Female",
+      "job role": "Assistant Media Planner"
+    },
+    {
+      "id": "40",
+      "name": "Erin",
+      "email": "eseint13@disqus.com",
+      "gender": "Female",
+      "job role": "Staff Scientist"
+    },
+    {
+      "id": "41",
+      "name": "Jorge",
+      "email": "jlorne14@godaddy.com",
+      "gender": "Male",
+      "job role": "Accountant III"
+    },
+    {
+      "id": "42",
+      "name": "Katti",
+      "email": "kwhipple15@wunderground.com",
+      "gender": "Female",
+      "job role": "Clinical Specialist"
+    },
+    {
+      "id": "43",
+      "name": "Kin",
+      "email": "kpiken16@hexun.com",
+      "gender": "Male",
+      "job role": "Technical Writer"
+    },
+    {
+      "id": "44",
+      "name": "Lillis",
+      "email": "lbeacroft17@privacy.gov.au",
+      "gender": "Female",
+      "job role": "Software Engineer II"
+    },
+    {
+      "id": "45",
+      "name": "Rina",
+      "email": "rsysland18@paginegialle.it",
+      "gender": "Female",
+      "job role": "Research Assistant III"
+    },
+    {
+      "id": "46",
+      "name": "Margot",
+      "email": "mandrys19@google.ca",
+      "gender": "Female",
+      "job role": "Clinical Specialist"
+    },
+    {
+      "id": "47",
+      "name": "Carmelle",
+      "email": "cokielt1a@europa.eu",
+      "gender": "Female",
+      "job role": "Accountant II"
+    },
+    {
+      "id": "48",
+      "name": "Maiga",
+      "email": "meyckelberg1b@amazon.de",
+      "gender": "Female",
+      "job role": "Recruiter"
+    },
+    {
+      "id": "49",
+      "name": "Rickert",
+      "email": "rgale1c@cam.ac.uk",
+      "gender": "Male",
+      "job role": "Developer II"
+    },
+    {
+      "id": "50",
+      "name": "Dona",
+      "email": "dcoward1d@g.co",
+      "gender": "Female",
+      "job role": "Legal Assistant"
+    },
+    {
+      "id": "51",
+      "name": "Yetta",
+      "email": "ykibblewhite1e@jalbum.net",
+      "gender": "Non-binary",
+      "job role": "Office Assistant I"
+    },
+    {
+      "id": "52",
+      "name": "Aile",
+      "email": "awinchurst1f@i2i.jp",
+      "gender": "Female",
+      "job role": "Budget/Accounting Analyst II"
+    },
+    {
+      "id": "53",
+      "name": "Chaddie",
+      "email": "ccarsey1g@statcounter.com",
+      "gender": "Agender",
+      "job role": "Systems Administrator II"
+    },
+    {
+      "id": "54",
+      "name": "Nicko",
+      "email": "nspanswick1h@example.com",
+      "gender": "Male",
+      "job role": "Senior Cost Accountant"
+    },
+    {
+      "id": "55",
+      "name": "Mervin",
+      "email": "mboeck1i@yellowbook.com",
+      "gender": "Male",
+      "job role": "Nuclear Power Engineer"
+    },
+    {
+      "id": "56",
+      "name": "Shelton",
+      "email": "sbannard1j@pbs.org",
+      "gender": "Male",
+      "job role": "Sales Associate"
+    },
+    {
+      "id": "57",
+      "name": "Estrellita",
+      "email": "etoal1k@nba.com",
+      "gender": "Genderqueer",
+      "job role": "Actuary"
+    },
+    {
+      "id": "58",
+      "name": "Inglis",
+      "email": "ibrandt1l@joomla.org",
+      "gender": "Male",
+      "job role": "Automation Specialist II"
+    },
+    {
+      "id": "59",
+      "name": "Neysa",
+      "email": "nfriedlos1m@hatena.ne.jp",
+      "gender": "Female",
+      "job role": "Desktop Support Technician"
+    },
+    {
+      "id": "60",
+      "name": "Walker",
+      "email": "wnana1n@huffingtonpost.com",
+      "gender": "Male",
+      "job role": "Human Resources Manager"
+    },
+    {
+      "id": "61",
+      "name": "Valaree",
+      "email": "vveltmann1o@usda.gov",
+      "gender": "Female",
+      "job role": "Physical Therapy Assistant"
+    },
+    {
+      "id": "62",
+      "name": "Farrell",
+      "email": "fmoles1p@i2i.jp",
+      "gender": "Male",
+      "job role": "Media Manager III"
+    },
+    {
+      "id": "63",
+      "name": "Harvey",
+      "email": "hdigan1q@spotify.com",
+      "gender": "Male",
+      "job role": "Chief Design Engineer"
+    },
+    {
+      "id": "64",
+      "name": "Jewel",
+      "email": "jhabberjam1r@utexas.edu",
+      "gender": "Female",
+      "job role": "Assistant Manager"
+    },
+    {
+      "id": "65",
+      "name": "Teddi",
+      "email": "tszymon1s@oracle.com",
+      "gender": "Female",
+      "job role": "VP Accounting"
+    },
+    {
+      "id": "66",
+      "name": "Dominga",
+      "email": "dstores1t@networksolutions.com",
+      "gender": "Female",
+      "job role": "Associate Professor"
+    },
+    {
+      "id": "67",
+      "name": "Darren",
+      "email": "dbrik1u@state.tx.us",
+      "gender": "Male",
+      "job role": "Geologist IV"
+    },
+    {
+      "id": "68",
+      "name": "Umeko",
+      "email": "ugilhooly1v@spotify.com",
+      "gender": "Female",
+      "job role": "Recruiting Manager"
+    },
+    {
+      "id": "69",
+      "name": "Pia",
+      "email": "pmains1w@columbia.edu",
+      "gender": "Female",
+      "job role": "Systems Administrator II"
+    },
+    {
+      "id": "70",
+      "name": "Lucie",
+      "email": "ljerzycowski1x@usnews.com",
+      "gender": "Female",
+      "job role": "Administrative Assistant I"
+    },
+    {
+      "id": "71",
+      "name": "Matty",
+      "email": "mflacke1y@rediff.com",
+      "gender": "Female",
+      "job role": "Administrative Officer"
+    },
+    {
+      "id": "72",
+      "name": "Thorpe",
+      "email": "tluby1z@a8.net",
+      "gender": "Male",
+      "job role": "Food Chemist"
+    },
+    {
+      "id": "73",
+      "name": "Francklin",
+      "email": "fkemet20@wufoo.com",
+      "gender": "Male",
+      "job role": "Teacher"
+    },
+    {
+      "id": "74",
+      "name": "Joly",
+      "email": "jlemmens21@eepurl.com",
+      "gender": "Female",
+      "job role": "Senior Cost Accountant"
+    },
+    {
+      "id": "75",
+      "name": "Deanne",
+      "email": "durling22@cornell.edu",
+      "gender": "Female",
+      "job role": "Account Representative III"
+    },
+    {
+      "id": "76",
+      "name": "Darius",
+      "email": "dhirtz23@amazon.de",
+      "gender": "Male",
+      "job role": "Web Designer III"
+    },
+    {
+      "id": "77",
+      "name": "Pierce",
+      "email": "pmccroft24@istockphoto.com",
+      "gender": "Male",
+      "job role": "Professor"
+    },
+    {
+      "id": "78",
+      "name": "Godiva",
+      "email": "gshilvock25@pen.io",
+      "gender": "Female",
+      "job role": "Director of Sales"
+    },
+    {
+      "id": "79",
+      "name": "Kelly",
+      "email": "kbengtsen26@live.com",
+      "gender": "Female",
+      "job role": "Automation Specialist III"
+    },
+    {
+      "id": "80",
+      "name": "Reese",
+      "email": "rpyle27@ask.com",
+      "gender": "Male",
+      "job role": "Analog Circuit Design manager"
+    },
+    {
+      "id": "81",
+      "name": "Orsa",
+      "email": "obudding28@infoseek.co.jp",
+      "gender": "Female",
+      "job role": "Recruiter"
+    },
+    {
+      "id": "82",
+      "name": "Else",
+      "email": "ebodiam29@gmpg.org",
+      "gender": "Female",
+      "job role": "Paralegal"
+    },
+    {
+      "id": "83",
+      "name": "Reid",
+      "email": "rmathieson2a@soundcloud.com",
+      "gender": "Male",
+      "job role": "Recruiting Manager"
+    },
+    {
+      "id": "84",
+      "name": "Hobie",
+      "email": "hbonnefin2b@t-online.de",
+      "gender": "Male",
+      "job role": "Web Designer III"
+    },
+    {
+      "id": "85",
+      "name": "Shepard",
+      "email": "sciraldo2c@xinhuanet.com",
+      "gender": "Male",
+      "job role": "Help Desk Technician"
+    },
+    {
+      "id": "86",
+      "name": "Gregorius",
+      "email": "gcastlake2d@dailymotion.com",
+      "gender": "Male",
+      "job role": "Senior Editor"
+    },
+    {
+      "id": "87",
+      "name": "Felic",
+      "email": "fpellington2e@amazon.co.uk",
+      "gender": "Male",
+      "job role": "Actuary"
+    },
+    {
+      "id": "88",
+      "name": "Lazaro",
+      "email": "lbleby2f@google.pl",
+      "gender": "Male",
+      "job role": "Business Systems Development Analyst"
+    },
+    {
+      "id": "89",
+      "name": "Aldin",
+      "email": "afidelus2g@oakley.com",
+      "gender": "Male",
+      "job role": "Administrative Assistant IV"
+    },
+    {
+      "id": "90",
+      "name": "Price",
+      "email": "pbalchen2h@huffingtonpost.com",
+      "gender": "Male",
+      "job role": "Social Worker"
+    },
+    {
+      "id": "91",
+      "name": "Alvan",
+      "email": "ajanuszewski2i@newsvine.com",
+      "gender": "Male",
+      "job role": "Assistant Professor"
+    },
+    {
+      "id": "92",
+      "name": "Gertrud",
+      "email": "gchaudhry2j@hatena.ne.jp",
+      "gender": "Female",
+      "job role": "Account Coordinator"
+    },
+    {
+      "id": "93",
+      "name": "Brien",
+      "email": "bchisholme2k@baidu.com",
+      "gender": "Male",
+      "job role": "Quality Control Specialist"
+    },
+    {
+      "id": "94",
+      "name": "Zachary",
+      "email": "zdulinty2l@deliciousdays.com",
+      "gender": "Male",
+      "job role": "Statistician IV"
+    },
+    {
+      "id": "95",
+      "name": "Eward",
+      "email": "ekringe2m@microsoft.com",
+      "gender": "Agender",
+      "job role": "Marketing Manager"
+    },
+    {
+      "id": "96",
+      "name": "Rawley",
+      "email": "rpawlaczyk2n@amazon.de",
+      "gender": "Male",
+      "job role": "Paralegal"
+    },
+    {
+      "id": "97",
+      "name": "Katlin",
+      "email": "kessame2o@ocn.ne.jp",
+      "gender": "Female",
+      "job role": "Senior Financial Analyst"
+    },
+    {
+      "id": "98",
+      "name": "Ivie",
+      "email": "iohingerty2p@pagesperso-orange.fr",
+      "gender": "Female",
+      "job role": "Information Systems Manager"
+    },
+    {
+      "id": "99",
+      "name": "Laurella",
+      "email": "lclixby2q@ning.com",
+      "gender": "Female",
+      "job role": "Project Manager"
+    },
+    {
+      "id": "100",
+      "name": "Orelia",
+      "email": "opulford2r@nyu.edu",
+      "gender": "Female",
+      "job role": "Media Manager III"
+    },
+    {
+      "id": "2e7e",
+      "name": "Saptarshi Chakraborty ",
+      "email": "chakrabortysaptarshi9@gmail.com",
+      "gender": "male",
+      "job_role": "Consultant"
+    },
+    {
+      "id": "7d51",
+      "name": "SAPTARSHI C",
+      "email": "chakrabortysaptarshi1@gmail.com",
+      "gender": "male",
+      "job_role": "Consultant"
+    },
+    {
+      "id": "4eb9",
+      "name": "SAPTARSHI C",
+      "email": "chakrabortysaptarshi1@gmail.com",
+      "gender": "male",
+      "job_role": "Consultant"
+    },
+    {
+      "id": 104,
+      "name": "Sayantan",
+      "email": "chakrabortysaptarshi1@gmail.com",
+      "gender": "male",
+      "job_role": "Consultant"
+    },
+    {
+      "id": 104,
+      "name": "Anil",
+      "email": "chakrabortysaptarshi1@gmail.com",
+      "gender": "male",
+      "job_role": "Consultant"
+    },
+    {
+      "id": 106,
+      "name": "bachacbah",
+      "email": "chakrabortysaptarshi9@gmail.com",
+      "gender": "male",
+      "job_role": "Consultant"
+    }
+  ]
+}

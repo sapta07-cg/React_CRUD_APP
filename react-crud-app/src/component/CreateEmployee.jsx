@@ -1,11 +1,20 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
+
+import { useDispatch ,useSelector} from 'react-redux';
+import { addTodo } from '../redux/slice/todoSlice';
+import { useNavigate } from 'react-router-dom';
 
 const CreateEmployee = () => {
+  const navigate=useNavigate();
+
+  const empData=useSelector((state)=>state)
+
+  const dispatch=useDispatch();
     const[userDetail,setUserDetails]=useState({
+      id: empData.todo.users.length+1,
       name:"",
       email:"",
-      age:null,
-      companyName:"",
+      gender:"",
       job_role:""
     })
 
@@ -18,7 +27,13 @@ const CreateEmployee = () => {
         };
       });
     };
-    const handleSubmit=()=>{}
+    const handleSubmit=(e)=>{
+      e.preventDefault();
+      console.log("User details",userDetail)
+      console.log("Data submitted");
+      dispatch(addTodo(userDetail))
+      navigate("/");
+    }
 
 
 
@@ -51,29 +66,7 @@ const CreateEmployee = () => {
                   onChange={inputEvent}
                 />
               </div>
-              <div className="form-group">
-                <label>Age</label>
-                <input
-                  type="number"
-                  className="form-control"
-                  placeholder="Enter your age"
-                  name="age"
-                  value={userDetail.team_name}
-                  onChange={inputEvent}
-                />
-              </div>
              
-              <div className="form-group">
-                <label >Company Name</label>
-                <input
-                  type="text"
-                  className="form-control"
-                  placeholder="Enter company name"
-                  name="companyName"
-                  value={userDetail.incidentNumber}
-                  onChange={inputEvent}
-                />
-              </div>
               <div className="form-group">
                 <label >Gender</label>
                 <select

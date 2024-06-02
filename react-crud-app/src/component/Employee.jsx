@@ -10,7 +10,6 @@ const Employee = () => {
     }
 
     const empData=useSelector((state)=>state)
-    console.log(empData);
 
     if(empData.todo.loading){
       return <h1>Loading........</h1>
@@ -28,8 +27,8 @@ const Employee = () => {
         <div>
           <h2>Employee List</h2>
           <ul>
-            {empData.todo.data && empData.todo.data.data.map((item,index)=>
-            <li key={index}>{item.first_name}</li>)}
+            {empData.todo.users && empData.todo.users.map((item,index)=>
+            <li key={index}>{item.name}</li>)}
           </ul>
 
         </div>
